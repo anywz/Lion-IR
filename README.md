@@ -34,6 +34,15 @@ Facilitar a **reunião e organização de documentos e informações financeiras
 
 ---
 
+
+## 📸 Capturas de Tela
+
+### Tela de Cadastro do Titular
+
+![Tela de Cadastro do Titular](imagens/secao-titular.png)
+_Visão da aba para preenchimento dos dados do titular e dependentes._
+
+
 ## ✅ Requisitos
 
 - Microsoft Excel (recomendado para compatibilidade total)  
