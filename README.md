@@ -39,7 +39,7 @@ Facilitar a **reunião e organização de documentos e informações financeiras
 
 ### Tela de Cadastro do Titular
 
-![Tela de Cadastro do Titular](imagens/secao-titular.png)
+![Tela de Cadastro do Titular](imagens/titular.png)
 _Visão da aba para preenchimento dos dados do titular e dependentes._
 
 
